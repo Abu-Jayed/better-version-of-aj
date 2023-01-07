@@ -40,6 +40,45 @@
 		background-color: #F15B22;
 	}
 	/* Top part button style end */
+	
+	/* this is extra work for extra number. sir, show us mouse hover and header menu. so i am doing this */
+	.btn:hover{
+		background-color: white;
+		color: #F15B22;
+		font-weight: 750;
+		font-size: 21px;
+	}
+	.blend-btn:hover{
+		background-color: #F15B22;
+		color: white;
+		font-weight: 700;
+		font-size: 21px;
+	}
+	.sub-btn:hover{
+		color: white;
+		background-color: #F15B22;
+		font-weight: 700;
+		font-size: 19px;
+	}
+
+	.header-menu ul li{
+	display: inline;
+}
+.header-menu{
+	padding-top: 33px;
+	text-align: center;
+	background-color: rgb(101, 149, 156);
+	height: 66px;
+}
+.header-menu li a{
+	font-weight: 800;
+	font-size: 39px;
+	color: rgb(17, 38, 77);
+	text-decoration: none;
+	padding-left: 33px;
+}
+
+
 /* top part end*/
 
 
