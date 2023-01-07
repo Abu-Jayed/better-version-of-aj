@@ -1,0 +1,166 @@
+/* top part start*/
+*{
+	margin: 0;
+}
+.top-part{
+	width: 100%;
+	height: 810px;
+	background-image: url('../images/banner/banner2.png');
+}
+
+.top-part-message{
+	width: 525px;
+	font-size: 65px;
+	font-weight: 700;
+	text-align: right;
+	padding-top: 230px;
+	padding-left: 600px;
+}
+
+.top-part p{
+	width: 490px;
+	text-align: right;
+	padding-left: 629px;
+	
+}
+	/* Top part button style start */
+	.top-part-btn{
+		padding-top: 52px;
+		padding-left: 960px;
+	} 
+
+	.btn{
+		font-size: 20px;
+		font-weight: 600;
+		color: white;
+		width: 160px;
+		height: 64px;
+		border-radius: 5px;
+		border: 0;
+		background-color: #F15B22;
+	}
+	/* Top part button style end */
+/* top part end*/
+
+
+/* My past year failer part start*/
+.my-failer-part{
+	/* height: ; */
+	padding-top: 150px;
+}
+.m-f-p-layout{
+	background-image: url('../images/person.png');
+	background-repeat: no-repeat;
+	/* background-size: contain; */
+	
+
+}
+.m-f-p-text{
+	padding-top: 300px;
+	padding-left: 800px;
+	height: 400px;
+	width: 416px;
+}
+.m-f-p-text h1{
+	width: 288px;
+	height: 94px;
+	font-size: 40px;
+	font-weight: 700;
+}
+.m-f-p-text p{
+	padding-top: 20px;
+	width: 416px;
+	height: 104px;
+}
+
+ul{
+	list-style: none;
+}
+li{
+	height: 26px;
+}
+ul li i img{
+	padding-top: 2px;
+}
+/* My past year failer part end here */
+
+/* My Plans list start here  */
+.my-plan-title .my-plan-heading{
+	font-size: 40px;
+	font-weight: 700;
+	text-align: center;
+}
+
+.my-plan-img{
+	display: flex;
+	padding-left: 300px;
+	padding-right: 300px;
+	justify-content: space-between;
+	padding-top: 44px;
+}
+.my-plan-subtitle{
+	padding-top: 11px;
+	display: flex;
+	padding-left:300px ;
+	padding-right:300px ;
+	justify-content: space-between;
+}
+.my-plan-name{
+	display: flex;
+	font-size: 25px;
+	font-weight: 700;
+}
+.mpweb{
+	padding-left: 250px;
+}
+.m-p-js{
+	padding-left: 70px;
+}
+.m-p-sm{
+	padding-left: 108px;
+}
+.m-p-eco{
+	padding-left: 118px;
+}
+/* My Plans list end here  */
+
+
+/* blend with start here */
+.blend-background-img{
+	background-image: url('../images/watch.png');
+	background-repeat: no-repeat;
+	background-origin: content-box, padding-box, ;
+	background-size: 910px 230px;
+	position: relative;
+}
+.blend-with-img{
+	padding-left: 200px;
+	padding-top: 50px;
+}
+.blend-with-img img{
+	height: 230px;
+	width: 910px;
+}
+.gradient-img{
+	position: relative;
+}
+.gradient-text{
+	position: absolute;
+	top: 33px;
+	right: 22px;
+	margin-left: 50px;
+	margin-right: 600px;
+	font-size: 45px;
+	font-weight: 750;
+	color: white;
+}
+.blend-btn{
+	width: 150px;
+	height: 60px;
+	border: 0;
+	border-radius: 5px;
+	color: #F15B22;
+	font-size: 20px;
+	font-weight: 600;
+}
+/* blend with end here */
