@@ -211,7 +211,7 @@ footer{
 .footer{
 	width: auto;
 	height: 400px;
-	background-color: black;
+	background-color: rgb(33, 33, 33);
 }
 .footer-part{
 	display: flex;
